@@ -4,3 +4,5 @@ Hello Github
 3. Nambah satu list lagi
 4. Dua list lagi lah
 5. tes halo world!
+  . print("Hello World!") (Python)
+  . console.log("Hello World!"); (Javascript)
